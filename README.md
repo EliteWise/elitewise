@@ -8,5 +8,5 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EliteWise&theme=radical)](https://git.io/streak-stats)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliteWise)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=url-checker)](https://github.com/anuraghazra/github-readme-stats)
 </div>
