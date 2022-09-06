@@ -9,4 +9,6 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EliteWise&theme=radical)](https://git.io/streak-stats)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=url-checker)](https://github.com/EliteWise/url-checker)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitewise&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
