@@ -6,9 +6,9 @@
   <a href="https://github.com/EliteWise/url-checker">Url Checker - Chrome Extension</a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="33" height="33"/>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EliteWise&theme=radical)]
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EliteWise&theme=radical)](https://github.com/EliteWise)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=url-checker)](https://github.com/EliteWise/url-checker)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitewise)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitewise)](https://github.com/EliteWise)
 </div>
