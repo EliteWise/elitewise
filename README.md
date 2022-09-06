@@ -7,4 +7,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="33" height="33"/>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EliteWise&theme=radical)](https://git.io/streak-stats)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliteWise)](https://github.com/anuraghazra/github-readme-stats)
 </div>
