@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   <h2>Florent's GitHub</h2>
   
   <h3>Current Project I'm working on:</h3>
