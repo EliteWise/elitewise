@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>Florent's GitHub</h2>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=30&pause=3000&color=F79A0C&center=true&width=435&lines=Florent's+GitHub)](https://git.io/typing-svg)
   
   <h3>Current Project I'm working on:</h3>
 
@@ -17,3 +17,5 @@
   </a>
   
 </div>
+
+
