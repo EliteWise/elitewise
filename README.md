@@ -12,7 +12,7 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elitewise&custom_title=GitHub&nbsp;Commits&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&#8205;&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs,issues,stars&hide_rank=true&line_height=30&border_radius=10)](https://github.com/EliteWise)
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=elitewise&theme=material-palenight&radius=10&area=true&custom_title=Contribution%20Graph)](https://github.com/EliteWise)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=elitewise&theme=react-dark&radius=10&area=true&custom_title=Contribution%20Graph)](https://github.com/EliteWise)
   
   <a href="https://github.com/EliteWise">
     <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,django,bots" />
