@@ -2,7 +2,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=30&duration=3500&pause=5000&color=F79A0C&center=true&width=435&lines=Florent's+GitHub)](https://git.io/typing-svg)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&duration=3500&pause=5000&color=F79A0C&center=true&width=435&lines=Current+Projects+I'm+working+on%3A)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&duration=3500&pause=5000&color=F79A0C&center=true&width=435&lines=Current+Project+I'm+working+on%3A)](https://git.io/typing-svg)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=url-checker&theme=tokyonight&border_radius=10)](https://github.com/EliteWise/url-checker)
   
