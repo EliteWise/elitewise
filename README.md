@@ -12,9 +12,9 @@
 
   <!--- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=elitewise&theme=react-dark&radius=10&area=true&custom_title=Contribution%20Graph)](https://github.com/EliteWise) -->
   
-  <a href="https://github.com/EliteWise">
+  <!---<a href="https://github.com/EliteWise">
     <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,django,selenium,cs,bots" />
-  </a>
+  </a> -->
   
 </div>
 
