@@ -2,9 +2,9 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=F7BE3F&background=44B0FF00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Simplicity;is+the+soul;of+efficiency)](https://git.io/typing-svg)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=secrets-flagger&theme=tokyonight&border_radius=10)](https://github.com/EliteWise/secrets-flagger) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=windows-emulator-launcher&theme=tokyonight&border_radius=10)](https://github.com/EliteWise/windows-emulator-launcher)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=secrets-flagger&theme=onedark&border_radius=10)](https://github.com/EliteWise/secrets-flagger) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=windows-emulator-launcher&theme=onedark&border_radius=10)](https://github.com/EliteWise/windows-emulator-launcher)
 
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=experience-viewer&theme=tokyonight&border_radius=10)](https://github.com/EliteWise/experience-viewer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=immersive-bleeding&theme=tokyonight&border_radius=10)](https://github.com/EliteWise/immersive-bleeding)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=experience-viewer&theme=onedark&border_radius=10)](https://github.com/EliteWise/experience-viewer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elitewise&repo=immersive-bleeding&theme=onedark&border_radius=10)](https://github.com/EliteWise/immersive-bleeding)
 
   <!---[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&duration=3500&pause=5000&color=F79A0C&center=true&width=435&lines=Current+Project+I'm+working+on%3A)](https://git.io/typing-svg)
   
