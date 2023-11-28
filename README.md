@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!---[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=F7BE3F&background=44B0FF00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Simplicity;is+the+soul;of+efficiency)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=F7BE3F&background=44B0FF00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Simplicity;is+the+soul;of+efficiency)](https://git.io/typing-svg)
   <!---[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&duration=3500&pause=5000&color=F79A0C&center=true&width=435&lines=Current+Project+I'm+working+on%3A)](https://git.io/typing-svg)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitewise&layout=compact&theme=tokyonight&border_radius=10&langs_count=10&card_width=350)](https://github.com/EliteWise)
@@ -13,7 +12,6 @@
   <!---<a href="https://github.com/EliteWise">
     <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,django,selenium,cs,bots" />
   </a> -->
-  
 </div>
 
 
